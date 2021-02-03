@@ -5,7 +5,6 @@ import BurgerBuilder from "./containers/BurgerBuilder/BurgerBuider";
 import Checkout from "./containers/Checkout/Checkout";
 
 class App extends Component {
-  state = {};
   render() {
     return (
       <div>
